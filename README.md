@@ -1,6 +1,6 @@
 ---
 
-<h1 align="center">☠️ Vicky | POWERFUL EHICAL_HACK3R ☠️</h1>
+<h1 align="center"> ☠️ Vicky | POWERFUL EHICAL_HACK3R ☠️</h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=FF0000&center=true&vCenter=true&lines=Ethic+Auto..+Specialist;Team+Hackethics138;ADV+OSINT+Researcher;Vicky+KING+TSN" alt="Typing SVG" />
@@ -47,27 +47,10 @@ I am **vikash_jangir**, a passionate and self-taught **Ethic4l H4ck3R**,**Python
 
 ### [💀] Threat Matrix
 ```text
-[►] System Breach    [███████████████████░] 98%
-[►] Deep Infiltration[██████████████████░░] 95%
-[►] Ghost Protocol   [█████████████████░░░] 92%
-[►] Data Extraction  [████████████████░░░░] 88%
+[►] System Breach    [███████████████████░] 80%
+
 ```
 
-📈 **GitHub Stats**  
-<p align="center"> 
-    <img src="" /> 
-
----
----
-<p align="center"> 
-    <img src="" /> 
-     
-<p align="center">
-    <img src=""/>
-</p>
-
----
----
 
 ### [👨‍💻] Digital Footprints
 ```ascii
