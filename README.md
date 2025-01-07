@@ -41,7 +41,7 @@ I am **vikash_jangir**, a passionate and self-taught **Ethic4l H4ck3R**,**Python
 ---
 
 🛠️ **Tech Stack & Tools**  
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,bash,github%22%20alt=%22Tech%20Stack" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,linux,,github%22%20alt=%22Tech%20Stack" /> </p>
 
 ---
 
