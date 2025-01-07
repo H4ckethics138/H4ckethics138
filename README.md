@@ -44,14 +44,6 @@ I am **vikash_jangir**, a passionate and self-taught **Ethic4l H4ck3R**,**Python
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,linux,,github%22%20alt=%22Tech%20Stack" /> </p>
 
 ---
-
-### [💀] Threat Matrix
-```text
-[►] System Breach    [███████████████████░] 80%
-
-```
-
-
 ### [👨‍💻] Digital Footprints
 ```ascii
 [X] Location     : Tor
