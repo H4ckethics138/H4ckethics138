@@ -54,7 +54,7 @@ I am **vikash_jangir**, a passionate and self-taught **Ethic4l H4ck3R**,**Python
 
 ### [👨‍💻] Digital Footprints
 ```ascii
-[X] Location     : ENCRYPTED
+[X] Location     : Tor
 ```
 
 ---
