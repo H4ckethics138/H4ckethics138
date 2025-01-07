@@ -3,7 +3,7 @@
 <h1 align="center"> ☠️ Vicky | POWERFUL EHICAL_HACK3R ☠️</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=FF0000&center=true&vCenter=true&lines=Ethic+Auto..+Specialist;Team+Hackethics138;ADV+OSINT+Researcher;Vicky+KING+TSN" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=FF0000&center=true&vCenter=true&lines=Vicky+Auto..+Specialist;Team+Hackethics138;ADV+OSINT+Researcher;Vicky+KING+TSN" alt="Typing SVG" />
 </p>
 
 <div align="center">
