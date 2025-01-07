@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-    <a href="https://www.instagram.com/hackethics138/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=red&color=black" alt="Instagram Badge"/></a>
+    <a href="https://www.instagram.com/hackethics138/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoCgolor=red&color=black" alt="Instagram Badge"/></a>
     <a href="https://www.youtube.com/@Hackethics.138"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=red&color=black" alt="YouTube Badge"/></a>
     <a href="https://t.me/hackethics138"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=red&color=black" alt="Telegram Badge"/></a>
 </div>
@@ -44,7 +44,7 @@ I am **vikash_jangir**, a passionate and self-taught **Ethic4l H4ck3R**,**Python
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,html,css,java,linux, metasploit,github%22%20alt=%22Tech%20Stack" /> </p>
 
 ---
-### [👨‍💻] Digital Footprints
+### [🛜] Digital Footprints
 ```ascii
 [X] Location     : Tor
 ```
