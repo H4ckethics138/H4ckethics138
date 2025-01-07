@@ -26,7 +26,7 @@
 
 ### Who Am I?
 
-I am **vikash_jangir**, a passionate and self-taught **Ethic4l H4ck3R**,**Python3 Automation Specialist**. Based in India, my expertise spans **Python**, where I build tools and solutions to bridge innovation with execution.
+I am **vikash_jangir**, a passionate and self-taught **Ethic4l H4ck3R**,**Python3 Automation Specialist**. my expertise  **Python**, I build tools
 
 ---
 
