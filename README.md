@@ -1,9 +1,9 @@
 ---
 
-<h1 align="center">☠️ Ethic | POWERFUL EHICAL_HACK3R ☠️</h1>
+<h1 align="center">☠️ Vicky | POWERFUL EHICAL_HACK3R ☠️</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=FF0000&center=true&vCenter=true&lines=Ethic+Auto..+Specialist;Team+Hackethics138;ADV+OSINT+Researcher;Ethic+KING+TSN" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=FF0000&center=true&vCenter=true&lines=Ethic+Auto..+Specialist;Team+Hackethics138;ADV+OSINT+Researcher;Vicky+KING+TSN" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -15,7 +15,7 @@
 ### 🌟 [ABOUT ME]
 
 <div align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=👋+Greetings!+I+am+Ethic.;💻" alt="Animated Typing SVG"> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=👋+Greetings!+I+am+Vicky.;💻" alt="Animated Typing SVG"> 
 </div>
 
 <div align="center" style="margin: 20px;">
@@ -69,25 +69,9 @@ I am **vikash_jangir**, a passionate and self-taught **Ethic4l H4ck3R**,**Python
 ---
 ---
 
-### [🔪] Weapon Stack
-<div align="center">
-    
-![Binary](https://img.shields.io/badge/-System_Decimation-FF0000?style=flat-square&logo=c%2B%2B&logoColor=white&color=black)
-![Python](https://img.shields.io/badge/-Silent_Strike-FF0000?style=flat-square&logo=python&logoColor=white&color=black)
-![Shell](https://img.shields.io/badge/-Root_Access-FF0000?style=flat-square&logo=gnu-bash&logoColor=white&color=black)
-    
-</div>
-
----
-
----
-
-### [🕷️] Digital Footprints
+### [👨‍💻] Digital Footprints
 ```ascii
 [X] Location     : ENCRYPTED
-[X] Status       : HUNTING
-[X] Target       : ACQUIRING
-[X] Threat Level : CRITICAL
 ```
 
 ---
