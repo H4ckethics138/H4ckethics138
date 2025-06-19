@@ -1,7 +1,7 @@
 👨‍💻 Hey, I'm Vikash Jangir
 
 <p align="center">
-  <img src="https://i.imgur.com/LS3ovG2.gif" width="150" alt="Hackethics138 Logo" />
+  <img src="https://media.tenor.com/G4GdvEotPhoAAAAi/web-hack-hacker.gif" width="150" alt="Hackethics138 Logo" />
 </p><h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=440&lines=Hey+I'm+Vikash+Jangir;Ethical+Hacker+%7C+OSINT+Expert;Python+Automation+Developer;Welcome+to+my+world+%F0%9F%92%BB" alt="Typing SVG" />
 </h2>
