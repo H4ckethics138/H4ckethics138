@@ -63,5 +63,5 @@ const whoAmI = () => ({
 ---
 
 <p align="center">
-  <img src="https://images.app.goo.gl/Bzfbd" width="100%" alt="Anonymous Hacker GIF" />
+  <img src="" width="100%" alt="Anonymous Hacker GIF" />
 </p><p align="center"><b><i>Stay Hidden, Stay Smart 💀</i></b></p>
