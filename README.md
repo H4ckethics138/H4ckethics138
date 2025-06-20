@@ -24,20 +24,16 @@ const whoAmI = () => ({
 
 ---
 
-⚠️ System Log:
+<h3>### [⚠️] System Warning</h3>
 
-[ALERT] Unauthorized access detected
-[WARN]  System defenses compromised
-[CRIT]  Kernel panic imminent
-[FATAL] Ghost protocol initiated
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=%5BALERT%5D+Unauthorized+access+detected;%5BWARN%5D+System+defenses+compromised;%5BCRIT%5D+Kernel+panic+imminent;%5BFATAL%5D+Ghost+protocol+initiated" alt="Typing SVG" />
+</p>
 
 
 ---
 
 🧰 Tech Stack
-
-     
-
 
 ---
 
