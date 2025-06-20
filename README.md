@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=440&lines=Hey+I'm+Vikash+Jangir;Ethical+Hacker+%7C+OSINT+Expert;Python+Automation+Developer;Welcome+to+my+world+%F0%9F%92%BB" alt="Typing SVG" />
 </h2>
 ---
+<h1 align="center">☠️ VICKY | POWERFUL CODER ☠️</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=24&duration=4000&color=FF0000&center=true&vCenter=true&width=1000&lines=Vicky+Automation+Specialist;Team+Hackethics138;Advanced+OSINT+Researcher;Vicky+KING+TSN" alt="Typing SVG" />
+</p>
 
 🧠 Who Am I?
 
@@ -51,16 +56,16 @@ const whoAmI = () => ({
 
 🔗 Connect With Me:
 
-📧 Email: hackethics138@protonmail.com
+📧 Email: officialhackethics@gmail.com
 
 📸 Instagram: @Hackethics138
 
-📬 Telegram: @Hackethics138
+📬 Telegram: https://t.me/Hack3thics
 
 
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="100%" alt="Anonymous Hacker GIF" />
+  <img src="https://images.app.goo.gl/Bzfbd" width="100%" alt="Anonymous Hacker GIF" />
 </p><p align="center"><b><i>Stay Hidden, Stay Smart 💀</i></b></p>
