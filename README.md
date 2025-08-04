@@ -3,7 +3,9 @@
 # 💀 VIKASH JANGIR 💀
 ## 🔥 HACKETHICS138 | ELITE CYBER OPERATIVE 🔥
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=100&lines=VIKASH+JANGIR+%7C+ETHICAL+HACKER;HACKETHICS138+%7C+OSINT+EXPERT;PYTHON+AUTOMATION+SPECIALIST" alt="Professional Identity" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=1000&height=50&lines=VIKASH+JANGIR+%7C+ETHICAL+HACKER" alt="Professional Identity Line 1" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=1000&height=50&lines=HACKETHICS138+%7C+OSINT+EXPERT" alt="Professional Identity Line 2" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=1000&height=50&lines=PYTHON+AUTOMATION+SPECIALIST" alt="Professional Identity Line 3" />
 
 </div>
 
@@ -13,7 +15,9 @@
 
 ## 🧠 ABOUT VIKASH JANGIR
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Elite+Cyber+Security+Professional;Advanced+OSINT+Researcher;Python+Automation+Expert" alt="Professional Summary" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Elite+Cyber+Security+Professional" alt="Professional Summary Line 1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Advanced+OSINT+Researcher" alt="Professional Summary Line 2" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Python+Automation+Expert" alt="Professional Summary Line 3" />
 
 </div>
 
@@ -40,7 +44,8 @@ const vikashJangir = {
 
 ## ⚡ TECHNICAL EXPERTISE
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=Loading+Arsenal...;Systems+Online+%E2%9C%85" alt="Technical Loading" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=Loading+Arsenal..." alt="Technical Loading Line 1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=Systems+Online+%E2%9C%85" alt="Technical Loading Line 2" />
 
 </div>
 
@@ -77,7 +82,8 @@ const vikashJangir = {
 
 ## 📊 GITHUB ANALYTICS
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Analyzing+Performance...;Data+Compiled+%E2%9C%85" alt="Analytics Loading" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Analyzing+Performance..." alt="Analytics Loading Line 1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Data+Compiled+%E2%9C%85" alt="Analytics Loading Line 2" />
 
 </div>
 
@@ -97,7 +103,8 @@ const vikashJangir = {
 
 ## 🎯 CURRENT PROJECTS & OPERATIONS
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=700&lines=Active+Operations+Status;All+Projects+Operational+%F0%9F%9A%80" alt="Projects Status" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=false&width=700&lines=Active+Operations+Status" alt="Projects Status Line 1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=false&width=700&lines=All+Projects+Operational+%F0%9F%9A%80" alt="Projects Status Line 2" />
 
 </div>
 
@@ -124,7 +131,8 @@ const vikashJangir = {
 
 ## 🏆 ACHIEVEMENTS & CERTIFICATIONS
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Professional+Achievements;Continuous+Learning+%26+Growth" alt="Achievements" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Professional+Achievements" alt="Achievements Line 1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Continuous+Learning+%26+Growth" alt="Achievements Line 2" />
 
 </div>
 
@@ -143,7 +151,8 @@ const vikashJangir = {
 
 ## 🌐 CONNECT WITH VIKASH JANGIR
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Professional+Network;Always+Open+to+Collaborate" alt="Network Status" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Professional+Network" alt="Network Status Line 1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Always+Open+to+Collaborate" alt="Network Status Line 2" />
 
 </div>
 
@@ -159,7 +168,10 @@ const vikashJangir = {
 
 ### 🎯 Follow for Cybersecurity Content
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&width=700&lines=Daily+Cybersecurity+Tips;Advanced+Hacking+Techniques;OSINT+Methodologies;Python+Security+Scripts" alt="Content Preview" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=false&width=700&lines=Daily+Cybersecurity+Tips" alt="Content Preview Line 1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=false&width=700&lines=Advanced+Hacking+Techniques" alt="Content Preview Line 2" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=false&width=700&lines=OSINT+Methodologies" alt="Content Preview Line 3" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=false&width=700&lines=Python+Security+Scripts" alt="Content Preview Line 4" />
 
 </div>
 
@@ -169,7 +181,15 @@ const vikashJangir = {
 
 ## 💻 TERMINAL ACCESS
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=800&lines=vikash@hackethics138:~$+whoami;Vikash+Jangir+%7C+Ethical+Hacker;vikash@hackethics138:~$+ls+-la+skills/;drwxr-xr-x+ethical_hacking/;drwxr-xr-x+osint_research/;drwxr-xr-x+python_automation/;drwxr-xr-x+cybersecurity/;vikash@hackethics138:~$+echo+%22Ready+for+collaboration%22;Ready+for+collaboration" alt="Terminal Session" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&multiline=false&width=800&lines=vikash@hackethics138:~$+whoami" alt="Terminal Session Line 1" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&multiline=false&width=800&lines=Vikash+Jangir+%7C+Ethical+Hacker" alt="Terminal Session Line 2" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&multiline=false&width=800&lines=vikash@hackethics138:~$+ls+-la+skills/" alt="Terminal Session Line 3" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&multiline=false&width=800&lines=drwxr-xr-x+ethical_hacking/" alt="Terminal Session Line 4" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&multiline=false&width=800&lines=drwxr-xr-x+osint_research/" alt="Terminal Session Line 5" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&multiline=false&width=800&lines=drwxr-xr-x+python_automation/" alt="Terminal Session Line 6" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&multiline=false&width=800&lines=drwxr-xr-x+cybersecurity/" alt="Terminal Session Line 7" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&multiline=false&width=800&lines=vikash@hackethics138:~$+echo+%22Ready+for+collaboration%22" alt="Terminal Session Line 8" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&multiline=false&width=800&lines=Ready+for+collaboration" alt="Terminal Session Line 9" />
 
 </div>
 
@@ -179,7 +199,9 @@ const vikashJangir = {
 
 ## ⚠️ ETHICAL DISCLAIMER
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=2000&pause=1000&color=FFFF00&center=true&vCenter=true&multiline=true&width=800&lines=All+activities+for+educational+purposes;Ethical+hacking+%26+responsible+disclosure;Committed+to+cybersecurity+awareness" alt="Ethics Statement" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=2000&pause=1000&color=FFFF00&center=true&vCenter=true&multiline=false&width=800&lines=All+activities+for+educational+purposes" alt="Ethics Statement Line 1" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=2000&pause=1000&color=FFFF00&center=true&vCenter=true&multiline=false&width=800&lines=Ethical+hacking+%26+responsible+disclosure" alt="Ethics Statement Line 2" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=2000&pause=1000&color=FFFF00&center=true&vCenter=true&multiline=false&width=800&lines=Committed+to+cybersecurity+awareness" alt="Ethics Statement Line 3" />
 
 </div>
 
@@ -191,6 +213,7 @@ const vikashJangir = {
 
 <img src="https://komarev.com/ghpvc/?username=Hackethics138&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=00FF41&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting;Stay+secure%2C+stay+ethical" alt="Farewell Message" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=00FF41&center=true&vCenter=true&multiline=false&width=500&lines=Thank+you+for+visiting" alt="Farewell Message Line 1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=00FF41&center=true&vCenter=true&multiline=false&width=500&lines=Stay+secure%2C+stay+ethical" alt="Farewell Message Line 2" />
 
 </div>
