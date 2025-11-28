@@ -84,35 +84,5 @@ I am **Vikash Jangir**, a passionate and self-taught **Ethical Hacker**, **OSINT
 
 ---
 
-### [🔪] Weapon Stack
-<div align="center">
-    
-![Binary](https://img.shields.io/badge/-System_Decimation-FF0000?style=flat-square&logo=c%2B%2B&logoColor=white&color=black)
-![Python](https://img.shields.io/badge/-Silent_Strike-FF0000?style=flat-square&logo=python&logoColor=white&color=black)
-![Shell](https://img.shields.io/badge/-Root_Access-FF0000?style=flat-square&logo=gnu-bash&logoColor=white&color=black)
-![Network](https://img.shields.io/badge/-Dark_Operations-FF0000?style=flat-square&logo=javascript&logoColor=white&color=black)
-    
-</div>
-
----
-
-### [⚔️] Operation Status
-```text
-[>>] Kernel Takeover   [▰▰▰▰▰▰▰▰▰▱] 95%
-    ⠀⠀☠️⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀☠️
-[>>] Zero-Day Arsenal  [▰▰▰▰▰▰▰▰▱▱] 85%
-[>>] System Decimation [▰▰▰▰▰▰▰▰▱▱] 80%
-[>>] Shadow Protocol   [▰▰▰▰▰▰▰▰▰▱] 90%
-```
-
----
-
-### [🕷️] Digital Footprints
-```ascii
-[X] Location     : ENCRYPTED
-[X] Status       : HUNTING
-[X] Target       : ACQUIRING
-[X] Threat Level : CRITICAL
-```
 
 ---
