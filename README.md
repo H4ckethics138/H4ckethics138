@@ -62,12 +62,14 @@ I am **Vikash Jangir**, a passionate and self-taught **Ethical Hacker**, **OSINT
 
 📈 **GitHub Stats**  
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=samay825&show_icons=true&theme=highcontrast" alt="GitHub Stats" /> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samay825&theme=highcontrast" alt="GitHub Streak" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=H4ckethics138&show_icons=true&theme=radical" alt="GitHub Stats" /> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=H4ckethics138&theme=dark" alt="GitHub Streak" /> 
 </p>
 
+
+
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=samay825&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15&bg_color=000000&title_color=FF0000&no-bg=true"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=H4ckethics138&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15&bg_color=000000&title_color=FF0000&no-bg=true"/>
 </p>
 
 ---
