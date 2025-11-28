@@ -48,7 +48,7 @@ I am **Vikash Jangir**, a passionate and self-taught **Ethical Hacker**, **OSINT
 ---
 
 🛠️ **Tech Stack & Tools**  
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,vue,linux,bash,mysql,firebase,git,github" alt="Tech Stack" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,linux,bash,firebase,git,github" alt="Tech Stack" /> </p>
 
 ---
 
@@ -71,18 +71,5 @@ I am **Vikash Jangir**, a passionate and self-taught **Ethical Hacker**, **OSINT
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=H4ckethics138&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15&bg_color=000000&title_color=FF0000&no-bg=true"/>
 </p>
-
----
-
-### 🎭 [PHANTOM PROTOCOL]
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Signal_Trace-BLOCKED-FF0000?style=flat-square&color=000000" alt="Signal Trace: BLOCKED" />
-  <img src="https://img.shields.io/badge/System_Access-ROOT-FF0000?style=flat-square&color=000000" alt="System Access: ROOT" />
-  <img src="https://img.shields.io/badge/Detection-VOID-FF0000?style=flat-square&color=000000" alt="Detection: VOID" />
-</div>
-
----
-
 
 ---
