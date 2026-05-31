@@ -1,6 +1,6 @@
 ---
 
-<h1 align="center">☠️ VicKy| POWERFUL HACKERS ☠️</h1>
+<h1 align="center">☠️ VicKy | POWERFUL HACKER ☠️</h1>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=00FFFF&center=true&vCenter=true&width=700&lines=VicKy+Automation+Specialist;Team+Hackethics138;Advanced+OSINT+Researcher;VicKy+KING+TSN" alt="Typing SVG" />
 </p>
